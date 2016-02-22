@@ -1,0 +1,24 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Drumulator Rom Editor", "Drumulator Rom Editor\Drumulator Rom Editor.vcproj", "{03DA2C08-519B-4531-AF4D-57C1A46049C2}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "SetupDRE", "Setup\Setup.vdproj", "{F4B8ADB4-1C09-4A79-8363-881E38F70470}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{03DA2C08-519B-4531-AF4D-57C1A46049C2}.Debug|Win32.ActiveCfg = Debug|Win32
+		{03DA2C08-519B-4531-AF4D-57C1A46049C2}.Debug|Win32.Build.0 = Debug|Win32
+		{03DA2C08-519B-4531-AF4D-57C1A46049C2}.Release|Win32.ActiveCfg = Release|Win32
+		{03DA2C08-519B-4531-AF4D-57C1A46049C2}.Release|Win32.Build.0 = Release|Win32
+		{F4B8ADB4-1C09-4A79-8363-881E38F70470}.Debug|Win32.ActiveCfg = Debug
+		{F4B8ADB4-1C09-4A79-8363-881E38F70470}.Release|Win32.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
